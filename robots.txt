@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /partnerzy
+
+Sitemap: https://serhitooo.github.io/nalo-living-systems-website/sitemap.xml
