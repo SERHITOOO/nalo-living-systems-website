@@ -1,4 +1,4 @@
-:HL["/nalo-living-systems-website/_next/static/chunks/0w8xd7lf0orfz.css","style"]
+:HL["/nalo-living-systems-website/_next/static/chunks/3y0gbmzj1zmx3.css","style"]
 :HL["/nalo-living-systems-website/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/nalo-living-systems-website/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"aplikacja","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"51wrtYp0g9Nz0G7xYomvK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"aplikacja","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GsvVfuHbp5idFsPzpaQ7h"}
