@@ -1,2 +1,2 @@
-:HL["/nalo-living-systems-website/_next/static/chunks/0rh3gldnoz9zj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"JBfbV1zMvYnlkDssXYPa7"}
+:HL["/nalo-living-systems-website/_next/static/chunks/0w8xd7lf0orfz.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"51wrtYp0g9Nz0G7xYomvK"}
