@@ -2,4 +2,4 @@
 2:I[39756,["/nalo-living-systems-website/_next/static/chunks/2xsw2t5u61bym.js","/nalo-living-systems-website/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 3:I[37457,["/nalo-living-systems-website/_next/static/chunks/2xsw2t5u61bym.js","/nalo-living-systems-website/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"c1ijpVV0T83S42MVM3iNh"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"uV0tBe_nDizs8YtT7Lina"}
